@@ -1,0 +1,24 @@
+DocFlow Sample Document — Invoice
+==================================
+
+Invoice Number: INV-2026-0042
+Date: April 11, 2026
+Vendor: Acme Technologies GmbH
+Client: DocFlow Systems Ltd.
+
+Line Items:
+-----------
+1. Software License (Annual)    $4,800.00
+2. Cloud Infrastructure Q1      $1,200.00
+3. Professional Services (8h)     $960.00
+
+Subtotal:  $6,960.00
+Tax (19%): $1,322.40
+Total Due: $8,282.40
+
+Payment Terms: Net 30
+Bank: Deutsche Bank IBAN DE89 3704 0044 0532 0130 00
+
+Notes:
+This invoice covers Q1 2026 services as per contract #CTR-2025-0098.
+Please reference the invoice number on your payment.

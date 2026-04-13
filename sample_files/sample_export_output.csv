@@ -1,0 +1,11 @@
+field,value
+title,"Invoice INV-2026-0042 — Acme Technologies GmbH"
+category,finance
+summary,"Q1 2026 invoice from Acme Technologies GmbH to DocFlow Systems Ltd."
+keywords,"invoice, finance, acme, software-license, cloud, q1-2026"
+confidence_score,0.94
+word_count,98
+char_count,612
+file_type,txt
+file_size_bytes,612
+exported_at,2026-04-11T16:05:00Z

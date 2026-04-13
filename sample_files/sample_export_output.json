@@ -1,0 +1,21 @@
+{
+  "job_id": 1,
+  "document": "test_document.txt",
+  "exported_at": "2026-04-11T16:05:00Z",
+  "status": "completed",
+  "is_finalized": true,
+  "result": {
+    "title": "Invoice INV-2026-0042 — Acme Technologies GmbH",
+    "category": "finance",
+    "summary": "Q1 2026 invoice from Acme Technologies GmbH to DocFlow Systems Ltd. covering software license, cloud infrastructure, and professional services. Total due: $8,282.40 with Net 30 payment terms.",
+    "keywords": ["invoice", "finance", "acme", "software-license", "cloud", "q1-2026"],
+    "confidence_score": 0.94,
+    "metadata": {
+      "word_count": 98,
+      "char_count": 612,
+      "file_type": "txt",
+      "file_size_bytes": 612,
+      "processed_at": "2026-04-11T16:05:04Z"
+    }
+  }
+}
